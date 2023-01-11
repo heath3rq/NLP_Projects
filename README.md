@@ -9,4 +9,9 @@ This repo contains all the classwork done as part of the Natural Language Proces
 5. [Document Vectors](https://github.com/heath3rq/NLP_Projects/tree/main/V.%20Document%20Vectors)
 
 # Installation Requirements
-To set up local environment, execute the following command: `pip install --upgrade pip && pip install -r requirements.txt`. You will also need download these nltk packages: (a) brown, (b) gutenberg, (c) punkt, (d) universal_tagset. To do so, run the Python interpreter and type the commands: `import nltk` then `nltk.download('brown')` to download the Brown corpus as an example. 
+To set up local environment, execute the following command: `pip install --upgrade pip && pip install -r requirements.txt`. You will also need download these nltk packages: 
+* brown
+* gutenberg
+* punkt
+* universal_tagset
+To do so, run the Python interpreter and type the commands: `import nltk` then `nltk.download('brown')` to download the Brown corpus as an example. 
