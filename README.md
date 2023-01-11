@@ -14,4 +14,5 @@ To set up local environment, execute the following command: `pip install --upgra
 * gutenberg
 * punkt
 * universal_tagset
+
 To do so, run the Python interpreter and type the commands: `import nltk` then `nltk.download('brown')` to download the Brown corpus as an example. 
